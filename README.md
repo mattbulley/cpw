@@ -1,3 +1,4 @@
-# cpw
+# Chord Progression Writer
+Created by Matt Bulley
 
-https://github.com/mattbulley/cpw/blob/master/cpw.png
+https://raw.githubusercontent.com/mattbulley/cpw/master/cpw.png
