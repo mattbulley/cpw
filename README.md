@@ -1,3 +1,3 @@
 # cpw
 
-![Alt text](/cdm.jpg?raw=true "Title")
+https://github.com/mattbulley/cpw/blob/master/cpw.png
