@@ -1,3 +1,3 @@
 # cpw
 
-![Alt text](cdm.jpg?raw=true "Title")
+![Alt text](/cdm.jpg?raw=true "Title")
